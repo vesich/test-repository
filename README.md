@@ -1,6 +1,6 @@
 # test-repository
 ## testing
 
-*first
-*second
-*third
+-first
+-second
+-third
